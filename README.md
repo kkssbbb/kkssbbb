@@ -39,7 +39,9 @@
 <br>
 <br>
 
+## [📋 resume](https://www.notion.so/Seungbin-Kim-is-a-steady-developer-676ee091a8834a4ca1a7c867432ae92c)
 ## [📝 Today I Learned](https://github.com/kkssbbb/TIL)
+
   
   <br>
   <br>
