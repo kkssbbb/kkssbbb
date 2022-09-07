@@ -41,6 +41,7 @@
 
 ## [📋 resume](https://east-virgo-e1a.notion.site/Seungbin-Kim-is-a-steady-developer-676ee091a8834a4ca1a7c867432ae92c)
 ## [📝 Today I Learned](https://github.com/kkssbbb/TIL)
+## [⌨️ MyBlog](https://kingbini.tistory.com/)
 
   
   <br>
