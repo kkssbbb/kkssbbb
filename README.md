@@ -51,6 +51,7 @@
   
   <!-- 백준 티어 표시-->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=shock182)](https://solved.ac/shock182/)
+=
 
 
 <!-- 3d 잔디 -->
