@@ -34,7 +34,7 @@
   <br>
   <br>
   
-  <!-- 깃허브 상태표시 -->
+  <!-- 깃허브 상태표시  -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkssbbb&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 
