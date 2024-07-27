@@ -27,8 +27,11 @@
 <br>
 <br>
 
-## [📝 Today I Learned](https://github.com/kkssbbb/TIL)
-## [⌨️ Blog](https://kingbini.tistory.com/)
+### [📝 Today I Learned](https://github.com/kkssbbb/TIL)
+
+<br>
+
+### [⌨️ Blog](https://kingbini.tistory.com/)
 
   
   <br>
