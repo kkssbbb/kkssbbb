@@ -42,7 +42,7 @@
 
 
 <!-- 3d 잔디 -->
-![](profile-3d-contrib/profile-night-rainbow.svg)
+<!-- ![](profile-3d-contrib/profile-night-rainbow.svg) -->
 
 
  <!-- 방문자수 표시 -->
