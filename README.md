@@ -4,8 +4,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header&text=Welcome✋&fontSize=30&animation=twinkling&desc=🐯SeungBin%20Github&fontAlignY=30&descAlignY=50)
 
 
-
-  <!-- 내용 -->
+<!-- 내용 -->
 
 
 <!-- test test test -->
